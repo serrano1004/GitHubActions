@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Soy el test 1"
+echo "Soy el test 1."
