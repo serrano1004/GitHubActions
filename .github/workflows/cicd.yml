@@ -11,4 +11,4 @@ on:
 
 jobs:
   test:
-    uses: serrano1004/GitHubActionTemplate/.github/workflows/test-workflow.yml@main
+    uses: serrano1004/GitHubActionTemplates/.github/workflows/test-workflow.yml@main
